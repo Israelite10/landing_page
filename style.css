@@ -1,0 +1,174 @@
+/* lucrative ptoject 
+Author israel opeyemi*/
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.logo img{
+    width: 200px;
+    height: 50px;
+     margin: 3px;
+    
+}
+.link a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    color: white;
+}
+.navbar{
+    display: flex;
+    
+}
+.link{
+    margin: 50px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+.text h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+    padding-top: 50px;
+    margin: 10px;
+    width: 400px;
+    color: white;
+}
+.text p{
+    margin-bottom: 10px;
+    width: 300px;
+    margin: 30px;
+    color: white;
+    margin-left: 50px;
+}
+button {
+    background-color: rgb(0, 189, 252);
+    border-radius: 3px;
+    margin-left: 50px;
+    width: 80px;
+    border-color: white;
+    
+}
+button a{
+    color: white;
+    
+}
+a{
+    text-decoration: none ;
+}
+.pic img{
+    
+    width: 450px;
+    height: 370px;
+    padding: 50px;
+    margin-right: 20px;
+    padding-top: 80px;
+  
+           
+}
+
+.placeholder{
+    display: flex;
+    justify-content: center;
+    
+}
+.placeholder img{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+figcaption p{
+    text-align: center;
+    text-transform: capitalize;
+    padding-bottom: 50px;
+
+}
+
+.whole{
+    display: flex;
+    justify-content: space-between;
+}
+
+#first-container{
+    background-image: url(web.jpg); height: 450px;
+}
+h2{
+    padding-top: 20px;
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   text-transform: capitalize;
+    padding-bottom: 20px;
+}
+.blockquote {
+    
+    margin: 10px 30px;
+    padding: 25px;
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-style: italic;
+       
+}
+
+.quote{
+    padding-top: 50px;
+    line-height:1.5;
+    padding-bottom: 50px;
+    background-color: rgb(216, 216, 216);
+
+   
+}
+.quote h4{
+    text-transform: capitalize;
+    text-align: end;
+    padding-right: 220px;
+
+}
+.signup{
+    display: flex;
+    margin: 3px solid;
+    padding: 50px;
+    border: 2px solid ;
+    margin-top: 30px;
+    justify-content: space-around;
+    border-radius: 5px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    border-color: rgb(0, 189, 252);
+    background-color: rgb(0, 189, 252);
+     
+}
+.signup h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: white;
+    
+}
+.signup h5{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    color: white;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+}
+.footer p{
+    text-transform: capitalize;
+}
+
+
